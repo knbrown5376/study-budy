@@ -5,6 +5,10 @@ body {
     text-align: center;
 
 }
+@viewport {
+  width:device-width ;
+  zoom: 1.0 ;
+}
 
 hr {
     border-style: dotted none none;
