@@ -10,6 +10,16 @@ viewport {
   zoom: 1.0 ;
 }
 
+
+media screen and (orientation:portrait) {
+  /* ... */
+}
+media screen and (orientation: landscape) {
+  /* ... */
+}
+
+
+
 hr {
     border-style: dotted none none;
     border-color: #dbf6e9;
