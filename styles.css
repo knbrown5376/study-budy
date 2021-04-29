@@ -11,10 +11,10 @@ viewport {
 }
 
 
-media screen and (orientation:portrait) {
+screen and (orientation:portrait) {
   /* ... */
 }
-media screen and (orientation: landscape) {
+screen and (orientation: landscape) {
   /* ... */
 }
 
